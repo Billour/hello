@@ -2,8 +2,12 @@
 This is for Home Test from Canonical - YuTai(Billour) Ou, including a testing.sh and a ppa.
 I use "master" branch.
 
-
+	
 Reference:
+
+how do I add/create a <source.changes> file?
+https://askubuntu.com/questions/155410/how-do-i-add-create-a-source-changes-file
+
 https://www.youtube.com/watch?v=ep88vVfzDAo&list=LL&index=4&t=6s
 
 20230215   :/bash-5.0/debian$

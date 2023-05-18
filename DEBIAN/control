@@ -1,8 +1,14 @@
+Source: hello
+Section: base
+Priority: optional
+Maintainer: YuTai(Billour) Ou <billourcode@gmail.com>
+
 Package: hello
 Version: 2.10-3billour1
-Architecture: all
-Essential: no
-Priority: optional
-Depends:
-Maintainer: YuTai(Billour) Ou
+Standards-Version: 2.10-3billour1
+XSBC-Original-Maintainer: Billour <billourcode@gmail.com>
+Architecture: any
+Vcs-Bzr: lp:ubuntu/hello
+Homepage: https://github.com/Billour/hello
+Vcs-Git: https://github.com/Billour/hello
 Description: Tack Home Test from Billour Canonical.
