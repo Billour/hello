@@ -1,0 +1,8 @@
+hello (2.10-3billour1) focal; urgency=low
+  [optional blank line(s), stripped]
+  * change details
+  more change details
+  [blank line(s), included in output of dpkg-parsechangelog]
+  * even more change details
+  [optional blank line(s), stripped]
+ -- maintainer Billour <billourcode@gmail.com>  Mon, 15 May 2023 08:00:00 +0800

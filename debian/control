@@ -1,0 +1,8 @@
+Package: hello
+Version: 2.10-3billour1
+Architecture: all
+Essential: no
+Priority: optional
+Depends:
+Maintainer: YuTai(Billour) Ou
+Description: Tack Home Test from Billour Canonical.

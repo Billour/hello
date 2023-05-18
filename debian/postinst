@@ -62,9 +62,9 @@ MY_MSG='this is a test from YuTai(Billour) Ou'
 	sudo echo 'echo hello: \/usr\/bin\/test.sh ' >> $PATH_T
 	sudo echo 'echo this is a test from YuTai\(Billour\) Ou ' >> $PATH_T
 	sudo echo 'exit 0' >> $PATH_T
-	sudo chmod 777 $PATH_T
+	sudo chmod u+x $PATH_T
 	sudo cp $PATH_T $PATH_SH_USR
-	sudo chmod 777 $PATH_SH_USR
+	sudo chmod u+x $PATH_SH_USR
 	#delete the temp file
 	sudo rm $PATH_T
 
